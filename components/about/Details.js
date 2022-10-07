@@ -5,7 +5,7 @@ export const Facultydetails =  [
             email: "sudhir@iiitdm.ac.in",
             position: "Faculty Advisor - EPIC",
             path: "girl",
-            rollnumber: " "
+            rollnumber: ""
         },
         {
             name: "Dr. Masilamani V",
